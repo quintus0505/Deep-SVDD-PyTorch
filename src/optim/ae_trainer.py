@@ -1,6 +1,6 @@
-from base.base_trainer import BaseTrainer
-from base.base_dataset import BaseADDataset
-from base.base_net import BaseNet
+from src.base.base_trainer import BaseTrainer
+from src.base.base_dataset import BaseADDataset
+from src.base.base_net import BaseNet
 from sklearn.metrics import roc_auc_score
 
 import logging
